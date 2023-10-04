@@ -1,0 +1,15 @@
+.btn {
+    border: none;
+    outline: none;
+    padding: 10px 16px;
+    margin-top: 7rem;
+    font-weight: bold;
+    border-radius: 35px;
+    background-color: #d9dfe0dc;
+    cursor: pointer;
+  }
+  
+  .active, .btn:hover {
+    background-color: rgb(20, 90, 230);
+    color: white;
+  }
